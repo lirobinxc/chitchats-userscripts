@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Adds 'Copy Tracking URL' directly to the sidebar for easy access.
-// @author       You
+// @author       https://github.com/lirobinxc
 // @match        https://chitchats.com/clients/*/shipments/*
 // @icon         https://www.google.com/s2/favicons?domain=chitchats.com
 // @grant        none
